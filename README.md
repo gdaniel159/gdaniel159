@@ -1,16 +1,139 @@
-## Hi there 👋
+<div align="center">
 
-<!--
-**gdaniel159/gdaniel159** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+# 👋 Hi, I'm German Daniel Soto Cordova
 
-Here are some ideas to get you started:
+### Software Engineer from Peru 🇵🇪
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Building modern web applications with **Next.js**, **NestJS** and **TypeScript**.
+
+<br>
+
+[🌐 Portfolio](https://german-cordova.netlify.app/)
+•
+[💼 LinkedIn](https://linkedin.com/in/german-cordova)
+•
+📫 german.ds12@gmail.com
+
+</div>
+
+---
+
+# About Me
+
+I'm a Software Engineer focused on designing and building scalable web applications.
+
+I enjoy working across the entire stack—from intuitive user interfaces to backend architecture, databases, APIs and deployment.
+
+Currently interested in:
+
+- Backend Architecture
+- Clean Code
+- Software Design
+- Artificial Intelligence
+- DevOps
+- Cloud Computing
+
+---
+
+# Tech Stack
+
+## Languages
+
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-black?style=for-the-badge&logo=javascript)
+
+---
+
+## Frontend
+
+![NextJS](https://img.shields.io/badge/Next.js-black?style=for-the-badge&logo=next.js)
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react)
+
+---
+
+## Backend
+
+![NestJS](https://img.shields.io/badge/NestJS-E0234E?style=for-the-badge&logo=nestjs)
+![NodeJS](https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js)
+![Express](https://img.shields.io/badge/Express-black?style=for-the-badge&logo=express)
+
+---
+
+## Database
+
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-blue?style=for-the-badge&logo=postgresql)
+![MySQL](https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql)
+
+---
+
+## Tools
+
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux)
+![Nginx](https://img.shields.io/badge/Nginx-009639?style=for-the-badge&logo=nginx)
+
+---
+
+# Featured Projects
+
+### 📁 Arbitration Management Platform
+
+Enterprise platform for arbitration case management including document workflows, notifications, role-based access and reporting.
+
+---
+
+### 📁 CRM Platform
+
+Customer relationship management system with dashboards, authentication and reporting.
+
+---
+
+### 📁 AI Mail Automation
+
+Automation platform for email campaigns, tracking and analytics.
+
+---
+
+### 📁 Occupational Examination Platform
+
+Management platform for occupational and laboratory examinations integrated with REST APIs.
+
+---
+
+# GitHub Analytics
+
+<p align="center">
+
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=gdaniel159&show_icons=true&theme=tokyonight&hide_border=true"/>
+
+<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=gdaniel159&layout=compact&theme=tokyonight&hide_border=true"/>
+
+</p>
+
+---
+
+<p align="center">
+
+<img src="https://streak-stats.demolab.com?user=gdaniel159&theme=tokyonight&hide_border=true"/>
+
+</p>
+
+---
+
+# Current Focus
+
+- Learning Kubernetes
+- Improving DevOps skills
+- Building production-ready software
+- Creating AI-powered applications
+
+---
+
+<div align="center">
+
+### Thanks for visiting my profile 👨‍💻
+
+*"Good software is built twice: first in the mind, then in code."*
+
+</div>
