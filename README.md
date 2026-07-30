@@ -101,14 +101,15 @@ Management platform for occupational and laboratory examinations integrated with
 
 ---
 
-## GitHub Activity
+# GitHub Analytics
 
-<div align="center">
-
-![GitHub followers](https://img.shields.io/github/followers/gdaniel159?style=for-the-badge&logo=github)
-![GitHub stars](https://img.shields.io/github/stars/gdaniel159?style=for-the-badge&logo=github)
-
-</div>
+<p align="center">
+  <img
+    src="https://raw.githubusercontent.com/gdaniel159/gdaniel159/refs/heads/main/github-jet.svg"
+    alt="GitHub Analytics"
+    width="100%"
+  />
+</p>
 
 ---
 
