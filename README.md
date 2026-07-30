@@ -12,7 +12,7 @@ Building modern web applications with **Next.js**, **NestJS** and **TypeScript**
 •
 [💼 LinkedIn](https://linkedin.com/in/german-cordova)
 •
-📫 german.ds12@gmail.com
+📫 german.sc937@gmail.com
 
 </div>
 
@@ -23,15 +23,6 @@ Building modern web applications with **Next.js**, **NestJS** and **TypeScript**
 I'm a Software Engineer focused on designing and building scalable web applications.
 
 I enjoy working across the entire stack—from intuitive user interfaces to backend architecture, databases, APIs and deployment.
-
-Currently interested in:
-
-- Backend Architecture
-- Clean Code
-- Software Design
-- Artificial Intelligence
-- DevOps
-- Cloud Computing
 
 ---
 
@@ -75,32 +66,6 @@ Currently interested in:
 
 ---
 
-# Featured Projects
-
-### 📁 Arbitration Management Platform
-
-Enterprise platform for arbitration case management including document workflows, notifications, role-based access and reporting.
-
----
-
-### 📁 CRM Platform
-
-Customer relationship management system with dashboards, authentication and reporting.
-
----
-
-### 📁 AI Mail Automation
-
-Automation platform for email campaigns, tracking and analytics.
-
----
-
-### 📁 Occupational Examination Platform
-
-Management platform for occupational and laboratory examinations integrated with REST APIs.
-
----
-
 # GitHub Analytics
 
 <p align="center">
@@ -110,15 +75,6 @@ Management platform for occupational and laboratory examinations integrated with
     width="100%"
   />
 </p>
-
----
-
-# Current Focus
-
-- Learning Kubernetes
-- Improving DevOps skills
-- Building production-ready software
-- Creating AI-powered applications
 
 ---
 
